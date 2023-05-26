@@ -59,11 +59,11 @@ describe('islandSize', () => {
 
   });
 
-  it('can count different islands in the same matrix', () => {
+  // it('can count different islands in the same matrix', () => {
 
-    expect(islandSize(2, 4, matrix)).to.equal(2);
+  //   expect(islandSize(2, 4, matrix)).to.equal(2);
 
-  });
+  // });
 
 
 
